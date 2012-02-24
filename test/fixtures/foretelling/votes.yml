@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  is_positive: false
+  type: MyString
+  foretelling_id: 1
+  user_id: 1
+  comment: MyString
+
+two:
+  is_positive: false
+  type: MyString
+  foretelling_id: 1
+  user_id: 1
+  comment: MyString
